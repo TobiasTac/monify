@@ -10,6 +10,18 @@
   <img src="./monify.gif" alt="Monify Demo" width="100%">
 </p>
 
+<details>
+  <summary>🔍 <strong>Click to watch the Full System Demo</strong></summary>
+  <p align="center">
+    <br>
+    <video src="https://github.com/user-attachments/assets/6de1f6b8-0642-4dd2-84e9-ba49f3fc3189" width="100%" controls>
+      Your browser does not support the video tag.
+    </video>
+    <br>
+    <em>Detailed walkthrough of the dashboard, transaction management, and responsive UI.</em>
+  </p>
+</details>
+
 ---
 
 ## 🚀 Technologies
